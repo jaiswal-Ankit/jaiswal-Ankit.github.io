@@ -262,8 +262,9 @@ nav ul li a {
 }
 
 .header-content h1 {
-  font-size: 40px;
+  font-size: 2vw;
   font-weight: 700;
+  margin-top: 10px;
   margin-bottom: 10px;
   text-transform: uppercase;
   color: #fff;
@@ -282,20 +283,23 @@ nav ul li a {
 .header-content .list-social li {
   float: left;
   margin-right: 20px;
+  font-size: 1vw;
+
 }
 
 .header-content .list-social li i {
   color: #fff;
-  font-size: 15px;
+  font-size: 1vw;
 }
 
 .header-content .firstline {
   z-index: 2;
   font-weight: 700;
   font-family: poppins;
-  font-size: 65px;
-  padding-bottom: 180px;
-  margin-top: 150px;
+  font-size: 4vw;
+  padding-bottom: 10px;
+  margin-top: -100px;
+
 }
 
 
